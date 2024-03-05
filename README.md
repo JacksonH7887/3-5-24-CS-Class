@@ -10,3 +10,7 @@ git status
 
     #List all the branches
 git branch
+
+git checkout main
+
+git merge feature1
